@@ -38,7 +38,7 @@ const options = {
     },
     servers: [
       {
-        url: "http://localhost:8080",
+        url: "https://job-portal-7xun.onrender.com",
       },
     ],
   },
